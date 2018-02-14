@@ -1,0 +1,22 @@
+{
+  "Local": {
+    "Opportunity_desc": "Local_Automation",
+    "Stage": "Local Qualified (CNA)",
+    "CloseDate": "2/2/2019",
+    "Sub_Industry": "Local/Edu/College/School"
+  },
+  "National": {
+    "Opportunity_desc": "National_Automation",
+    "Stage": "National Qualified (CNA)",
+    "CloseDate": "2/2/2019",
+    "Sub_Industry": "National/Edu/College/School",
+    "testEnvi": "National Stage"
+  },
+  "PPO": {
+    "Opportunity_desc": "PPO_Automation",
+    "Stage": "PPO Qualified (CNA)",
+    "CloseDate": "2/2/2019",
+    "Industry": "PPO Industry",
+    "Sub_Industry1": "PPO/Edu/College/School"
+  }
+}
